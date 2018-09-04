@@ -1,0 +1,10 @@
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\bin\Debug\Program2_RDavis.exe.config
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\bin\Debug\Program2_RDavis.exe
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\bin\Debug\Program2_RDavis.pdb
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.csprojAssemblyReference.cache
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.Form1.resources
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.Properties.Resources.resources
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.csproj.GenerateResource.cache
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.csproj.CoreCompileInputs.cache
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.exe
+C:\Users\rich\source\repos\Program2_RDavis\Program2_RDavis\obj\Debug\Program2_RDavis.pdb
